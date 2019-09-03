@@ -80,5 +80,5 @@ Data Management and Backend Process Developer
 
 
 ## Presentations
-[Slideshare](https://www.slideshare.net/kawa1128/)
-[Speaker Deck](https://speakerdeck.com/yakawa)
+- [Slideshare](https://www.slideshare.net/kawa1128/)
+- [Speaker Deck](https://speakerdeck.com/yakawa)
