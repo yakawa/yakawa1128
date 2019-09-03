@@ -77,3 +77,8 @@ Data Management and Backend Process Developer
 - 2002 Systems Administrator Examination (Japan)
 - 2001 Software Design & Development Engineer Examination (Japan)
 - 1999 Class II Information Technology Engineer Examination (Japan)
+
+
+## Presentations
+[Slideshare](https://www.slideshare.net/kawa1128/)
+[Speaker Deck](https://speakerdeck.com/yakawa)
