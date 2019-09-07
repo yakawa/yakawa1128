@@ -1,3 +1,9 @@
+---
+layout: default
+title: yakawa1128 Profile
+Lang :en_US
+
+---
 # KAWASAKI Yasukazu
 
 - Web Backend Engineer (2006-)
