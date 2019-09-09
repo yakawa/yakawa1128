@@ -50,6 +50,9 @@ Lang :en_US
 
 ## Experience
 
+### 2019.09 - Present @ FAN Communications, Tokyo, Japan
+Human Resource for Engineer
+
 ### 2015.01 - 2019.08 @ FAN Communications ,Tokyo, Japan
 Data Scientist
 #### Responsibilites
